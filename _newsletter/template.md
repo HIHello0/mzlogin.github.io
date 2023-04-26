@@ -1,5 +1,5 @@
 ---
-layout: fragment
+layout: newsletter
 title: Fragment Template
 tags: [tag1, tag2]
 description: some word here
