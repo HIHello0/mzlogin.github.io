@@ -80,9 +80,9 @@ navs:
      href: /archives/
      label: Archives
 
-   -
-     href: /open-source/
-     label: 开源
+#   -
+#     href: /open-source/
+#     label: 开源
 
   -
     href: /wiki/
