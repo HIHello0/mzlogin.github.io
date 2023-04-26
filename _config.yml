@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://mzlogin.netlify.app/
 date_format: "ordinal"
 title: Raj Rathod
 subtitle: "Digital Marketing"
@@ -70,7 +70,7 @@ email: hello.rajrathod@gmail.com
 navs:
   -
     href: /
-    label: 
+    label: Home
 
   -
     href: /categories/
