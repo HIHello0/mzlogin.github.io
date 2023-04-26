@@ -9,7 +9,7 @@ menu: 维基
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> How many commands and shortcuts to memorize will make your head explode?
 
 {% case site.components.wiki.view %}
 
