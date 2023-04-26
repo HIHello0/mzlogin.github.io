@@ -45,6 +45,9 @@ A --> Alt
 
 ### Q&A
 
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7056876888895455232" height="828" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 1. 如何解决 Mac OS X 下安装的是 Java 1.8，运行 Eclipse 时提示「您需要安装旧 Java SE 6 运行环境才能打开「Eclipse.app」。」的问题？
 
    ![](/images/wiki/eclipse-need-java6.png)
