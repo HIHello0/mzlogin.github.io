@@ -70,19 +70,19 @@ email: hello.rajrathod@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Home
 
   -
     href: /categories/
     label: Categories
 
-#   -
-#     href: /archives/
-#     label: Archives
+   -
+     href: /archives/
+     label: Archives
 
-#   -
-#     href: /open-source/
-#     label: 开源
+   -
+     href: /open-source/
+     label: 开源
 
   -
     href: /wiki/
