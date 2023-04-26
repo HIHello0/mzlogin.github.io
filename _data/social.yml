@@ -22,6 +22,6 @@
   name: mzlogin
   url: http://www.zhihu.com/people/mzlogin
 
-- sitename: 豆瓣
-  name: 闷骚的程序员
-  url: http://www.douban.com/people/freedim
+# sitename: 豆瓣
+# name: 闷骚的程序员
+# url: http://www.douban.com/people/freedim
