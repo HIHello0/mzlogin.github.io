@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-## 联系
+## Connect with Me
 
 <ul>
 {% for website in site.data.social %}
