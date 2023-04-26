@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mzlogin.netlify.app/
+url: https://mzlogin.netlify.app
 date_format: "ordinal"
 title: Raj Rathod
 subtitle: "Digital Marketing"
@@ -76,9 +76,9 @@ navs:
     href: /categories/
     label: Categories
 
-#   -
-#     href: /archives/
-#     label: Archives
+   -
+     href: /archives/
+     label: Archives
 
 #   -
 #     href: /open-source/
