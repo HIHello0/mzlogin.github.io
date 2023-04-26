@@ -4,8 +4,8 @@
 baseurl:
 url: https://mzlogin.netlify.app
 date_format: "ordinal"
-title: Raj Rathod
-subtitle: "Digital Marketing"
+title: The Insightful Mind
+subtitle: "Strategic Thinking, Data-Driven Decision Making, and Personal Growth"
 description: "Description"
 keywords: Keyword
 timezone: Asia/Kolkata
@@ -61,7 +61,7 @@ author: Raj Rathod
 organization: 
 organization_url: 
 github_username:
-location: Gujarat,India
+location:
 email: hello.rajrathod@gmail.com
 
 # ---------------- #
