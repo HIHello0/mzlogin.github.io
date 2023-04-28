@@ -10,7 +10,7 @@ permalink: /fragments/
 
 > Scattered knowledge, brief opinions, assembled here as snippets。
 
-<a href="{{ site.url }}/fragments/">全部 <span class="octicon octicon-chevron-right"></span></a>
+<a href="{{ site.url }}/fragments/">All <span class="octicon octicon-chevron-right"></span></a>
 
 <ul class="listing">
 {% for item in site.fragments %}
